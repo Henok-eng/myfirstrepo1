@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "myfirstrepo1",
+			"path": ".."
+		},
+		{
+			"name": "AboutMePage",
+			"path": "..\\..\\AboutMePage"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "myfirstrepo1"
+	}
+}
