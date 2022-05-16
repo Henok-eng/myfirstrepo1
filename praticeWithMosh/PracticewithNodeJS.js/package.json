@@ -1,0 +1,11 @@
+{
+  "name": "practicewithnodejs",
+  "version": "1.0.0",
+  "description": "my HelloWorld node.js demo app",
+  "main": "helloWorld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Henok",
+  "license": "ISC"
+}
