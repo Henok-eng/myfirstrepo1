@@ -8,5 +8,5 @@
    // var message = '';
   
     //console.log(module);
-    var logger = required('.logger');
-    console.log('message'); 
+   // var logger = required('.logger');
+    console.log('message');
